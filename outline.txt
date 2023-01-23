@@ -2,4 +2,6 @@ chapter1
 --We meet Nick, Tom, Daisy, and
 Jordan
 
-After commitsd
+After commits
+Added new
+Added vim
