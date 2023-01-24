@@ -4,6 +4,8 @@ Jordan
 
 After commits
 Added new
-Added vim
+Added vi
 
 New vs
+
+Adding using GUI
