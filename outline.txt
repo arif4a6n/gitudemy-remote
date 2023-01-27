@@ -7,8 +7,13 @@ Added new
 Added vi
 
 New vs
-
+WORKING
+--------
+CHANGES MADE1
 Adding using GUI
+WORKING
+--------
+CHANGES MADE3
 OK
 New Amend ---
 BRAND NEW CHANGE
@@ -20,3 +25,11 @@ BRANCH_5 -- COMMIT_4
 MASTER-COMMMIT
 BRANCH_5 -- COMMIT_5
 BRANCH_5 -- COMMIT_6
+
+WORKING
+--------
+CHANGES MADE2
+
+WORKING
+--------
+CHANGES MADE4
