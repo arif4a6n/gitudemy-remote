@@ -12,3 +12,5 @@ Adding using GUI
 OK
 New Amend ---
 BRAND NEW CHANGE
+
+BRANCH_5 -- COMMIT_1
