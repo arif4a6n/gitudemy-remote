@@ -5,5 +5,3 @@ Green
 Yellow
 Orange
 Red
-PINK STAGED
-CYAN UNSTAGED
